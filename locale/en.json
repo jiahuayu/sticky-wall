@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Sticky wall",
+    "description": "Adds a Sticky wall page to the left sidebar navigation. Write an idea, optionally tag it with a category, pick a note color, and add it to the wall. Every note has an edit control in its corner for rewriting the text, changing the category or switching colors; hover a note to delete it, with a short undo. Search filters by note text and category. Notes and the current draft stay in this browser's local storage, so they survive a reload.",
+    "detail": "docs/DETAIL.md"
+  }
+}
